@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d46a407-1d7d-4247-92d7-59c9c932e7ae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZCEHQaPJOCXfcpTrlzUnZI1khp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Converter" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Converter" />
+      <module name="scalaTesttry" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Converter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="scalaTesttry" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="scalatesttry [file:/home/uvionics/Documents/SparkScalaBasics/scalaTesttry/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="scalaTesttry-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="916805693" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../spark-test-example-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d46a407-1d7d-4247-92d7-59c9c932e7ae" name="Default Changelist" comment="" />
+      <created>1584334587986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584334587986</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="306" y="54" width="848" height="675" key="#Project_Structure" timestamp="1584334678882">
+      <screen x="45" y="24" width="1321" height="744" />
+    </state>
+    <state x="306" y="54" width="848" height="675" key="#Project_Structure/45.24.1321.744@45.24.1321.744" timestamp="1584334678882" />
+    <state x="444" y="150" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1584341624440">
+      <screen x="45" y="24" width="1321" height="744" />
+    </state>
+    <state x="444" y="150" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/45.24.1321.744@45.24.1321.744" timestamp="1584341624440" />
+    <state width="1273" height="174" key="GridCell.Tab.0.bottom" timestamp="1584341712640">
+      <screen x="45" y="24" width="1321" height="744" />
+    </state>
+    <state width="1273" height="174" key="GridCell.Tab.0.bottom/45.24.1321.744@45.24.1321.744" timestamp="1584341712640" />
+    <state width="1273" height="174" key="GridCell.Tab.0.center" timestamp="1584341712619">
+      <screen x="45" y="24" width="1321" height="744" />
+    </state>
+    <state width="1273" height="174" key="GridCell.Tab.0.center/45.24.1321.744@45.24.1321.744" timestamp="1584341712619" />
+    <state width="1273" height="174" key="GridCell.Tab.0.left" timestamp="1584341712592">
+      <screen x="45" y="24" width="1321" height="744" />
+    </state>
+    <state width="1273" height="174" key="GridCell.Tab.0.left/45.24.1321.744@45.24.1321.744" timestamp="1584341712592" />
+    <state width="1273" height="174" key="GridCell.Tab.0.right" timestamp="1584341712630">
+      <screen x="45" y="24" width="1321" height="744" />
+    </state>
+    <state width="1273" height="174" key="GridCell.Tab.0.right/45.24.1321.744@45.24.1321.744" timestamp="1584341712630" />
+    <state x="375" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1584420918724">
+      <screen x="45" y="24" width="1321" height="744" />
+    </state>
+    <state x="375" y="220" key="com.intellij.ide.util.TipDialog/45.24.1321.744@45.24.1321.744" timestamp="1584420918724" />
+    <state x="375" y="45" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584336090625">
+      <screen x="45" y="24" width="1321" height="744" />
+    </state>
+    <state x="375" y="45" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/45.24.1321.744@45.24.1321.744" timestamp="1584336090625" />
+  </component>
+</project>

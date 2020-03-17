@@ -1,0 +1,4 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/home/uvionics/Documents/SparkScalaBasics/scalaTesttry/"), "scalatesttry")...
+[debug] Done updating ProjectRef(uri("file:/home/uvionics/Documents/SparkScalaBasics/scalaTesttry/"), "scalatesttry")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
