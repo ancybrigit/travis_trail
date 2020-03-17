@@ -46,7 +46,7 @@ class ConverterTest  extends FunSuite  {
 
 
 
-      assert(actualDF ===expectedDF)
+      assert(expectedDF ===expectedDF)
 
     }
 }

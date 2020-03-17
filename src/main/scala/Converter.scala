@@ -4,6 +4,8 @@ import org.apache.spark.sql.{DataFrame, Row, SparkSession}
 import org.apache.spark.sql.functions._
 import org.apache.spark.sql.types.{IntegerType, StringType, StructField, StructType}
 //import spark.implicits._
+
+// converting uppercase to lower case
 object Converter {
 
   def snakecaseify(s: String): String = {
@@ -18,6 +20,7 @@ object Converter {
 
     }
   }
+//  main function
   def main(args: Array[String]) {
     val spark: SparkSession = {
       SparkSession
@@ -31,7 +34,7 @@ object Converter {
       Row("LUISA"),
 
     )
-
+// create data frame
     val someSchema = List(
       StructField("NAME", StringType, true)
     )

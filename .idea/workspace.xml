@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d46a407-1d7d-4247-92d7-59c9c932e7ae" name="Default Changelist" comment="" />
+    <list default="true" id="0d46a407-1d7d-4247-92d7-59c9c932e7ae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Converter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Converter.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +18,9 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -26,6 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -71,6 +78,7 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="$PROJECT_DIR$" value="3168670032771" />
         <entry key="$PROJECT_DIR$/build.sbt" value="916805693" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
       </map>
@@ -103,26 +111,26 @@
       <screen x="45" y="24" width="1321" height="744" />
     </state>
     <state x="444" y="150" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/45.24.1321.744@45.24.1321.744" timestamp="1584341624440" />
-    <state width="1273" height="174" key="GridCell.Tab.0.bottom" timestamp="1584341712640">
+    <state width="1273" height="174" key="GridCell.Tab.0.bottom" timestamp="1584434834770">
       <screen x="45" y="24" width="1321" height="744" />
     </state>
-    <state width="1273" height="174" key="GridCell.Tab.0.bottom/45.24.1321.744@45.24.1321.744" timestamp="1584341712640" />
-    <state width="1273" height="174" key="GridCell.Tab.0.center" timestamp="1584341712619">
+    <state width="1273" height="174" key="GridCell.Tab.0.bottom/45.24.1321.744@45.24.1321.744" timestamp="1584434834770" />
+    <state width="1273" height="174" key="GridCell.Tab.0.center" timestamp="1584434834770">
       <screen x="45" y="24" width="1321" height="744" />
     </state>
-    <state width="1273" height="174" key="GridCell.Tab.0.center/45.24.1321.744@45.24.1321.744" timestamp="1584341712619" />
-    <state width="1273" height="174" key="GridCell.Tab.0.left" timestamp="1584341712592">
+    <state width="1273" height="174" key="GridCell.Tab.0.center/45.24.1321.744@45.24.1321.744" timestamp="1584434834770" />
+    <state width="1273" height="174" key="GridCell.Tab.0.left" timestamp="1584434834769">
       <screen x="45" y="24" width="1321" height="744" />
     </state>
-    <state width="1273" height="174" key="GridCell.Tab.0.left/45.24.1321.744@45.24.1321.744" timestamp="1584341712592" />
-    <state width="1273" height="174" key="GridCell.Tab.0.right" timestamp="1584341712630">
+    <state width="1273" height="174" key="GridCell.Tab.0.left/45.24.1321.744@45.24.1321.744" timestamp="1584434834769" />
+    <state width="1273" height="174" key="GridCell.Tab.0.right" timestamp="1584434834770">
       <screen x="45" y="24" width="1321" height="744" />
     </state>
-    <state width="1273" height="174" key="GridCell.Tab.0.right/45.24.1321.744@45.24.1321.744" timestamp="1584341712630" />
-    <state x="375" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1584420918724">
+    <state width="1273" height="174" key="GridCell.Tab.0.right/45.24.1321.744@45.24.1321.744" timestamp="1584434834770" />
+    <state x="375" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1584430037699">
       <screen x="45" y="24" width="1321" height="744" />
     </state>
-    <state x="375" y="220" key="com.intellij.ide.util.TipDialog/45.24.1321.744@45.24.1321.744" timestamp="1584420918724" />
+    <state x="375" y="220" key="com.intellij.ide.util.TipDialog/45.24.1321.744@45.24.1321.744" timestamp="1584430037699" />
     <state x="375" y="45" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584336090625">
       <screen x="45" y="24" width="1321" height="744" />
     </state>
